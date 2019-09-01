@@ -6,7 +6,7 @@
 # List of writed project
 ### Linear data structure
 | 선형 자료구조                                         |
-| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| ------------------------------------------------------------ |
 | **[LinkedList](https://github.com/FroKCreativeTM/CPP_Data_Structure-Template-/tree/master/CPP_template_linked_list) **</br>|
 | **[Stack](https://github.com/FroKCreativeTM/CPP_Data_Structure-Template-/tree/master/CPP_Template_Stack) **</br>|
 | **[Queue](https://github.com/FroKCreativeTM/CPP_Data_Structure-Template-/tree/master/CPP_Template_Queue) **</br>|
@@ -15,7 +15,7 @@
 
 ### non-linear datastructure
 | 비선형 자료구조                                         |
-| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| ------------------------------------------------------------ |
 | **[Tree](https://github.com/FroKCreativeTM/CPP_Data_Structure-Template-/tree/master/CPP_Template_Tree) **</br>|
 | **[BinaryTree](https://github.com/FroKCreativeTM/CPP_Data_Structure-Template-/tree/master/CPP_Template_BinaryTree) **</br>|
 
