@@ -1,7 +1,22 @@
-# C++ 템플릿 자료구조
-본 솔루션은 이 깃의 주인(FroK)가 19년 여름방학동안 공부했었던 어소트락 게임학원의 C++ 템플릿을 이용한 선형자료구조(리스트, 스택, 큐) 구현과
-트리 구현 인터넷 강의를 보면서 이를 토대로 공부한 것입니다. 
+# Data structure with C++ Template
+이 프로젝트는 어소트락 자료구조/알고리즘 영상을 보고 이를 바탕으로 작성한 코드들입니다. **</br>
+코드의 출처는 LinkedList, Stack, Queue, Tree, BinaryTree는 어소트락 유튜브입니다. </br>
+링크 : https://www.youtube.com/channel/UCOPlo0wPx7Uo4p8e3GaW2KQ
 
-인터넷 강의 출처 - https://www.youtube.com/watch?v=rrigSKoA9x0&list=PL4SIC1d_ab-YJQ5lsS1CPzEAT1njDkEG9
+# List of writed project
+### Linear data structure
+| 선형 자료구조                                         |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| **[LinkedList](https://github.com/FroKCreativeTM/CPP_Data_Structure-Template-/tree/master/CPP_template_linked_list) |
+| **[Stack](https://github.com/FroKCreativeTM/CPP_Data_Structure-Template-/tree/master/CPP_Template_Stack) |
+| **[Queue](https://github.com/FroKCreativeTM/CPP_Data_Structure-Template-/tree/master/CPP_Template_Queue) |
 
-특히 트리는 아직 공부하는 단계이므로 완성된 코드가 아닙니다. (190824 기준)
+선형 자료구조란 자료를 구성할 때 이를 그려보면 Sequence를 가지고 구성되는 자료구조
+
+### non-linear datastructure
+| 비선형 자료구조                                         |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| **[Tree](https://github.com/FroKCreativeTM/CPP_Data_Structure-Template-/tree/master/CPP_Template_Tree) |
+| **[BinaryTree](https://github.com/FroKCreativeTM/CPP_Data_Structure-Template-/tree/master/CPP_Template_BinaryTree) |
+
+비선형 자료구조란 하나의 자료가 나온 뒤 그 자료를 잇는 후속 자료들이 여러개일 수 있는 자료구조이다.
