@@ -5,18 +5,16 @@
 
 # List of writed project
 ### Linear data structure
-| 선형 자료구조                                         |
-| ------------------------------------------------------------ |
-| **[LinkedList](https://github.com/FroKCreativeTM/CPP_Data_Structure-Template-/tree/master/CPP_template_linked_list) **</br>|
-| **[Stack](https://github.com/FroKCreativeTM/CPP_Data_Structure-Template-/tree/master/CPP_Template_Stack) **</br>|
-| **[Queue](https://github.com/FroKCreativeTM/CPP_Data_Structure-Template-/tree/master/CPP_Template_Queue) **</br>|
+
+*	[LinkedList](https://github.com/FroKCreativeTM/CPP_Data_Structure-Template-/tree/master/CPP_template_linked_list) </br>
+*	[Stack](https://github.com/FroKCreativeTM/CPP_Data_Structure-Template-/tree/master/CPP_Template_Stack) </br>
+*	[Queue](https://github.com/FroKCreativeTM/CPP_Data_Structure-Template-/tree/master/CPP_Template_Queue) </br>
 
 선형 자료구조란 자료를 구성할 때 이를 그려보면 Sequence를 가지고 구성되는 자료구조
 
 ### non-linear datastructure
-| 비선형 자료구조                                         |
-| ------------------------------------------------------------ |
-| **[Tree](https://github.com/FroKCreativeTM/CPP_Data_Structure-Template-/tree/master/CPP_Template_Tree) **</br>|
-| **[BinaryTree](https://github.com/FroKCreativeTM/CPP_Data_Structure-Template-/tree/master/CPP_Template_BinaryTree) **</br>|
+
+*	[Tree](https://github.com/FroKCreativeTM/CPP_Data_Structure-Template-/tree/master/CPP_Template_Tree) </br>
+*	[BinaryTree](https://github.com/FroKCreativeTM/CPP_Data_Structure-Template-/tree/master/CPP_Template_BinaryTree) </br>
 
 비선형 자료구조란 하나의 자료가 나온 뒤 그 자료를 잇는 후속 자료들이 여러개일 수 있는 자료구조이다.
